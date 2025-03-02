@@ -1,17 +1,3 @@
-// console.log(str[1]);
-// console.log(str.indexOf("o"));
-// console.log(str.lastIndexOf("w"));
-// console.log(str.toLowerCase());
-// console.log(str.toUpperCase());
-// console.log(str.length);
-// console.log(str.includes('world'))
-// console.log(str.startsWith('Hi'))
-// console.log(str.endsWith('world'))
-// console.log(str.substring(0, -4))
-// console.log(str.slice(0, -1))
-// console.log(str.substr(0, 2))
-// console.log(str.trim())
-
 // У вас должен быть инпут  на который вы будете писать текст. Данный инпут должен загорется зеленым если вы ввели ссылку на сайт, иначе красным также будет второй инпут который будет проверять правильно ли вы ввели свой емаил
 // например:
 // input:
